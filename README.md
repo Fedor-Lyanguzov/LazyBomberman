@@ -16,6 +16,8 @@ Another try at bombermaning, now with Python and Cocos2d
 
 Справочник: https://help.github.com/articles/github-flow-in-the-browser/
 
+Ссылка на игру: http://pcottle.github.io/learnGitBranching/
+
 ## Правила ведения документации в Python
 
 В Python существует четыре вида комментариев:
