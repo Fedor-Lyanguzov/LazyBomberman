@@ -27,4 +27,5 @@ def main():
   director.window.push_handlers(keyboard)
   director.run(main_scene)
 
-main()
+if __name__ == "__main__":
+    main()
