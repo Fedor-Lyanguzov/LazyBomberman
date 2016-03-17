@@ -12,6 +12,8 @@ Another try at bombermaning, now with Python and Cocos2d
 * После окончания разработки ветви, ее сливают с главной веткой master посредством pull request, в котором обсуждается проведенная работа и любые шаги для доработки до приемлемого состояния
 * Закрытие задания случается, когда в ветке master после pull request оказывается commit с комментарием, содержащим `fixed #n`, n - номер issue
 
+Официальный сайт Git: http://git-scm.com/
+
 Презентация: https://guides.github.com/introduction/flow/
 
 Справочник: https://help.github.com/articles/github-flow-in-the-browser/
