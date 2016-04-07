@@ -20,13 +20,14 @@ class Gamescene(scene.Scene):
         scroller.add(bg_layer)
         scroller.add(walls_layer)
         self.add(scroller)
+	
 
 
 
 def main():
     """ Test scene """
     director.init(width=800, height=600, autoscale=True)
-    director.run(Intro())
+    director.run(Gamescene())
     
 
 if __name__ == "__main__":
