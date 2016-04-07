@@ -24,7 +24,7 @@ def main():
     if no_intro :
         director.run(menu.Menu())
     else:
-        director.run(intro.Intro())
+        director.run(intro.IntroScene())
     
 
 if __name__ == "__main__":
